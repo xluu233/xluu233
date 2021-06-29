@@ -2,7 +2,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Xiaolu&theme=onedark)
 <!--
-**IMAlex233/IMAlex233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**xluu233/xluu233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
