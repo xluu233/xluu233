@@ -1,3 +1,10 @@
+<p padding-left="30%">
+- 🏛 University Student | Majoring in Computer Science <br />
+- 🔭 I’m currently working on a project named FlowerColor <br />
+- 🌱 I’m currently learning Software Design <br />
+</p>
+
+
 ### Hi there 👋
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Xiaolu&theme=onedark)
@@ -16,6 +23,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xluu233&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://raw.githubusercontent.com/xluu233/2f094c013a2cd4e882136e56adff66e189c7b5ef/github-contribution-grid-snake.svg" />
