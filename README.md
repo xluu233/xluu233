@@ -1,8 +1,3 @@
-<p padding-left="30%">
-- 🏛 University Student | Majoring in Computer Science <br />
-- 🔭 I’m currently working on a project named FlowerColor <br />
-- 🌱 I’m currently learning Software Design <br />
-</p>
 
 
 ### Hi there 👋
