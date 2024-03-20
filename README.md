@@ -9,7 +9,7 @@
   
 - 前Android开发 | Java | Kotlin | AOSP
   
-- 现C++开发 | Qt | 图形学 | OpenGL
+- 现C++开发 | Qt | 图形学 | OpenGL | ROS机器人
   
 - 爱好：copy轮子 | 摄影 | LOL
 
